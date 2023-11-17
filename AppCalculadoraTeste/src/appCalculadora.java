@@ -6,6 +6,7 @@ public class appCalculadora {
 		System.out.println("Alo mundo");
 		System.out.println("Show");
 		System.out.println("Show");
+		System.out.println("Show");
 		}
 
 }
